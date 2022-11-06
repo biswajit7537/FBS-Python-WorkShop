@@ -47,4 +47,19 @@
 # tup = tuple(lst)
 # print(tup)
 
+# tup = (1,2,3,4)
+# print(10 in tup)
+# print(10 not in tup)
+
+# unpacking
+
+# tup = (1,2,3)
+# var1,var2,var3 = tup
+# print(var1,var2,var3, sep = "\n")
+
+tup = (1,2,3,4,5,6,7)
+# print(len(tup))
+# print(max(tup))
+print(min(tup))
+
 
